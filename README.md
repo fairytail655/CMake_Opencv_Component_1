@@ -1,2 +1,12 @@
-# VS2017-Opencv-CMake
- win10(x64)下通过VS2017编译opencv需要用到的软件材料
+# 编译过程可能需要的组件
+face_landmark_model.dat  
+
+opencv_ffmpeg.dll  
+
+opencv_ffmpeg_64.dll  
+
+ppicv_2017u3_win_intel64_general_20170822.zip  
+
+v1.0.0a3.tar.gz  
+
+xfeatures2d文件夹
